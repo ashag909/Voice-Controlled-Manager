@@ -4,6 +4,7 @@ import tkinter as tk
 from tkinter import simpledialog, messagebox, scrolledtext
 import threading
 
+
 # Initialize text-to-speech engine
 engine = pyttsx3.init()
 
